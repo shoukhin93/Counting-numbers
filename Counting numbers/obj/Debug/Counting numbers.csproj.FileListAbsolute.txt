@@ -1,0 +1,16 @@
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counting numbers.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counting_numbers.Form1.resources
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counting_numbers.Properties.Resources.resources
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counting numbers.csproj.GenerateResource.Cache
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counting_numbers.horror.resources
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counting_numbers.about.resources
+E:\Programming\Projects\Counting numbers\Counting numbers\bin\Debug\Counter Game.exe.config
+E:\Programming\Projects\Counting numbers\Counting numbers\bin\Debug\Counter Game.exe.manifest
+E:\Programming\Projects\Counting numbers\Counting numbers\bin\Debug\Counter Game.application
+E:\Programming\Projects\Counting numbers\Counting numbers\bin\Debug\Counter Game.exe
+E:\Programming\Projects\Counting numbers\Counting numbers\bin\Debug\Counter Game.pdb
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counter Game.TrustInfo.xml
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counter Game.exe.manifest
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counter Game.application
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counter Game.exe
+E:\Programming\Projects\Counting numbers\Counting numbers\obj\Debug\Counter Game.pdb
